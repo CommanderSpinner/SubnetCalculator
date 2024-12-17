@@ -1,7 +1,5 @@
 package com.mycompany.subnet_rechner;
 
-// @author Lorenz Schaller
-
 import java.util.Scanner;
 
 public class Main {
