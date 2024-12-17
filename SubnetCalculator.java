@@ -1,6 +1,5 @@
 package com.mycompany.subnet_rechner;
 
-//(@author Lorenz Schaller
 public class SubnetCalculator {
 
     Subnetmask sn;
